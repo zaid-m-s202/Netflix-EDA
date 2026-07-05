@@ -57,7 +57,7 @@ Canada
 
 4. Release Year Analysis
 
-I analyzed which years had the highest number of content releases.
+I analyzed which years had the highest number of content released.
 
 This helped identify periods where content production was highest.
 
